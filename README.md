@@ -6,6 +6,8 @@
 
 [![@hashkode's Holopin board](https://holopin.me/hashkode)](https://holopin.io/@hashkode)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hashkode&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **hashkode/hashkode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
