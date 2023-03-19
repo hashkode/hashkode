@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-[![haskode's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashkode&count_private=true)](https://github.com/hashkode/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashkode&layout=compact)](https://github.com/hashkode/github-readme-stats)
 
-[![@hashkode's Holopin board](https://holopin.me/hashkode)](https://holopin.io/@hashkode)
+[![haskode's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashkode&count_private=true)](https://github.com/hashkode/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hashkode&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+[![@hashkode's Holopin board](https://holopin.me/hashkode)](https://holopin.io/@hashkode)
 
 <!--
 **hashkode/hashkode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
