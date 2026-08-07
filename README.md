@@ -1,5 +1,5 @@
 # Tobias Krug 👋
-**Bosch engineer · Edge & Mobility Systems · Founder @ CronAI UG (haftungsbeschränkt)**\
+**Founder @ CronAI UG (haftungsbeschränkt)**\
 Building dependable, production-ready automation and high-performance systems — bridging “corporate-grade engineering” with startup-speed shipping.
 
 ---
@@ -8,10 +8,6 @@ Building dependable, production-ready automation and high-performance systems �
 ### **CronAI** — time-triggered AI automation (SaaS)
 Turn natural language into schedules and reliable workflows: **NL → Cron**, task orchestration, webhooks and integrations — built with a strong focus on robustness, observability and GDPR-friendly delivery.  
 🌐 https://cronai.app
-
-### High-performance systems & protocols
-- **Edge + mobility software** (containerized services, APIs, reliability, CI/CD, observability)
-- **Ethereum / MEV infrastructure experiments** (in-memory transaction pools, bundle handling, concurrency, gRPC, public-facing APIs)
 
 ---
 
@@ -48,14 +44,6 @@ Turn natural language into schedules and reliable workflows: **NL → Cron**, ta
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 </div>
-
----
-
-## 📌 Highlights
-- Founder & CEO, **CronAI UG (haftungsbeschränkt)** — “time-triggered AI automation”
-- Built **high-performance, in-memory transaction pools** and **bundle orchestration** concepts (concurrency + sorting + retrieval) for Ethereum
-- Participant: **Lovable #Shipped builder program** (shipping culture, demo-driven development, open-source mindset)
-- Conference presence: **Web Summit (Lisbon)** — bridging corporate & startup engineering
 
 ---
 
