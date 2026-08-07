@@ -13,8 +13,11 @@ Turn natural language into schedules and reliable workflows: **NL → Cron**, ta
 
 ## 🧰 Toolbox
 **Languages:** Go, C++ (and friends)
+
 **Systems:** gRPC, Docker/Compose, CI/CD, observability stacks
+
 **Cloud:** AWS-centric deployments, with a couple things on GCP, Hetzner and others
+
 **Product:** SaaS delivery, APIs, security-minded design, pragmatic UX
 
 <div align="left">
