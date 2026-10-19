@@ -1,13 +1,12 @@
 # Tobias Krug 👋
-**Founder @ CronAI UG (haftungsbeschränkt)**\
-Building dependable, production-ready automation and high-performance systems — bridging “corporate-grade engineering” with startup-speed shipping.
+**Engineer, lifelong student, human.** Software engineer in Munich, more than a decade of it in automotive and connected systems. Since 2025 I run [CronAI](https://www.cronai.de), a founder-led software company: senior engineering, architecture and AI consulting, and a few products of our own.
 
 ---
 
 ## 🚀 What I’m working on
-### **CronAI** — time-triggered AI automation (SaaS)
-Turn natural language into schedules and reliable workflows: **NL → Cron**, task orchestration, webhooks and integrations — built with a strong focus on robustness, observability and GDPR-friendly delivery.  
-🌐 https://cronai.app
+- **[cronai.app](https://www.cronai.app)**: scheduled AI workflows that report what ran, when, and how it ended. In alpha, with a waitlist.
+- **[CronAI Labs](https://github.com/cronai-labs)**: open-source tools. [VaultOre](https://github.com/cronai-labs/vaultore) runs workflows written as Markdown notes in Obsidian, in the open [Ore](https://github.com/cronai-labs/ore-spec) format; [OKF Vault Kit](https://github.com/cronai-labs/okf-vault-kit) makes an Obsidian vault a searchable knowledge base with a local model; [schriftsatz](https://github.com/cronai-labs/schriftsatz) turns Markdown into print-ready PDF.
+- **Writing** at [tobiaskrug.com](https://www.tobiaskrug.com): field notes on building, on cryptography, and on tools worth knowing.
 
 ---
 
@@ -50,10 +49,5 @@ Turn natural language into schedules and reliable workflows: **NL → Cron**, ta
 
 ---
 
-## 📊 GitHub dashboards
-
-<div align="left">
-
-![Profile Views](https://komarev.com/ghpvc/?username=hashkode&style=flat)
-
-</div>
+## 🔗 Elsewhere
+[tobiaskrug.com](https://www.tobiaskrug.com) · [cronai.de](https://www.cronai.de) · [LinkedIn](https://www.linkedin.com/in/tobias-krug) · [X @thetobiaskrug](https://x.com/thetobiaskrug)
